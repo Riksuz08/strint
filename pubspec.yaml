@@ -1,7 +1,6 @@
 name: strint
 description: "Safe JSON models for Flutter — avoid UI crashes when backend sends wrong types (e.g. int instead of String). Generates freezed models with Safe* converters."
 version: 0.0.1
-# Replace with your repo URL before publishing (pub.dev recommends this)
 homepage: https://github.com/Riksuz08/strint
 repository: https://github.com/Riksuz08/strint
 
