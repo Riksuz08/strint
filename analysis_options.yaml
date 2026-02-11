@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - lib/models/**  # Example/generated output; not part of the package API
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options

@@ -1,0 +1,7 @@
+# Don't publish example/generated output from running the generator locally
+lib/models/
+strint_models.yaml
+
+# Build and IDE
+build/
+*.iml
