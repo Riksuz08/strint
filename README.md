@@ -1,0 +1,2 @@
+# strint
+Json safe
